@@ -1,0 +1,1 @@
+place in this folder a mpg video format file with name "example.mpg"
